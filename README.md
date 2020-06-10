@@ -1,2 +1,2 @@
-# PracticeAndStudy
-Some practice and study on programming
+# Learn to programm
+a project which record my codes while learning new skills of programming
